@@ -1,0 +1,26 @@
+body {
+  background-image: url(lilith.jpg);
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  padding: 50px;
+  font-family: sans-serif;
+  margin-top: 140px;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin-left: 840px;
+  margin-top: 30px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
